@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
-<h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud Computing Enthusiast</h3>
+<h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud Computing </h3>
 
 <p align="center">
   Passionate about cloud technologies, automation, and building reliable infrastructure.
