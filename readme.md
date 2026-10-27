@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center"> Vishal Nagrik</h1>
 
 <h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud Computing </h3>
 
