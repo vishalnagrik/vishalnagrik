@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <span style="color:#6366f1;">🚀 Aspiring DevOps Engineer</span> |
-  ☁️ Cloud Computing Enthusiast
+  ☁️ Cloud Computing
 </h3>
 
 <p align="center">
