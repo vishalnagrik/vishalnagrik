@@ -1,19 +1,8 @@
 <!-- HEADER -->
 
 <h1 align="center">
-  <strong>Vishal Nagrik</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Vishal+Nagrik;Aspiring+DevOps+Engineer;Cloud+Computing" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">
-  🚀 Aspiring DevOps Engineer | ☁️ Cloud Computing
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Open%20Source-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 
 <h3 align="center">
   <span style="color:#6366f1;">🚀 Aspiring DevOps Engineer</span> |
@@ -161,3 +150,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer" width="100%" alt="Colorful footer"/>
 </p>
+only change is my name bold and stable pahije baki devops and cloud ty khali pahije
