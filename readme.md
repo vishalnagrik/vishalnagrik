@@ -9,17 +9,12 @@
   ☁️ Cloud Computing
 </h3>
 
-
-<h3 align="center">
-  <span style="color:#6366f1;">🚀 Aspiring DevOps Engineer</span> |
-  ☁️ Cloud Computing
-</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Learning-6366F1?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Open%20Source-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 
 <p align="center">
   Passionate about cloud technologies, automation, and building reliable infrastructure.
