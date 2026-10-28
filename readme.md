@@ -1,8 +1,14 @@
 <!-- HEADER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Vishal+Nagrik;Aspiring+DevOps+Engineer;Cloud+Computing" alt="Typing SVG" />
+  <strong>Vishal Nagrik</strong>
 </h1>
+
+<h3 align="center">
+  <span style="color:#6366f1;">🚀 Aspiring DevOps Engineer</span> |
+  ☁️ Cloud Computing
+</h3>
+
 
 <h3 align="center">
   <span style="color:#6366f1;">🚀 Aspiring DevOps Engineer</span> |
